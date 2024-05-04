@@ -9,3 +9,4 @@
 3. tableView 设置代理
 4. QDataWidgetMapper *data_mapper 映射
 5. 文件读取与照片显示
+6. connect()的不同写法
